@@ -1,0 +1,26 @@
+.container h1 {
+  font-weight: bolder;
+  margin-bottom: 100px;
+}
+
+.container {
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.radio {
+  margin-left: 15px;
+}
+
+#notification {
+  font-weight: bold;
+  border: none;
+  font-size: 30px;
+  width: 100%;
+}
+
+#thongbao {
+  font-size: 30px;
+}
