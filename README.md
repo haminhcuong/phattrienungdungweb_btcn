@@ -1,3 +1,2 @@
 # phattrienungdungweb_btcn03
-
-#Online host: https://haminhcuong-web-btcn03.glitch.me
+Online host: https://haminhcuong-web-btcn03.glitch.me
